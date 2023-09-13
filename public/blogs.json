@@ -1,52 +1,42 @@
 [
   {
     "id": "1",
-    "cover": "https://example.com/cover1.jpg",
+    "cover": "https://i.postimg.cc/6TsFvfZT/1.jpg",
     "title": "The Art of Cooking",
     "author": "John Smith",
-    "author_img": "https://example.com/john_smith.jpg",
+    "author_img": "https://i.postimg.cc/RF0Zq41q/boy1.png",
     "posted_date": "2023-09-13",
     "reading_time": 10,
     "hashtags": ["cooking", "food", "recipes"]
   },
   {
     "id": "2",
-    "cover": "https://example.com/cover2.jpg",
+    "cover": "https://i.postimg.cc/cJNYbgRY/2.png",
     "title": "Exploring Space: A Journey Beyond Earth",
     "author": "Jane Doe",
-    "author_img": "https://example.com/jane_doe.jpg",
+    "author_img": "https://i.postimg.cc/vH5gJ80d/boy2.jpg",
     "posted_date": "2023-09-12",
     "reading_time": 15,
     "hashtags": ["space", "astronomy", "exploration"]
   },
   {
     "id": "3",
-    "cover": "https://example.com/cover3.jpg",
+    "cover": "https://i.postimg.cc/9FZytYTV/3.png",
     "title": "The Science of Climate Change",
     "author": "David Brown",
-    "author_img": "https://example.com/david_brown.jpg",
+    "author_img": "https://i.postimg.cc/pr24PLK1/girl1.jpg",
     "posted_date": "2023-09-11",
     "reading_time": 12,
     "hashtags": ["climate", "environment", "science"]
   },
   {
     "id": "4",
-    "cover": "https://example.com/cover4.jpg",
+    "cover": "https://i.postimg.cc/jqzjMg88/4.jpg",
     "title": "Artificial Intelligence: Past, Present, and Future",
     "author": "Emily Green",
-    "author_img": "https://example.com/emily_green.jpg",
+    "author_img": "https://i.postimg.cc/rpVrC6C2/girl2.jpg",
     "posted_date": "2023-09-10",
     "reading_time": 20,
     "hashtags": ["AI", "technology", "future"]
-  },
-  {
-    "id": "5",
-    "cover": "https://example.com/cover5.jpg",
-    "title": "Traveling the World on a Shoestring Budget",
-    "author": "Mark Johnson",
-    "author_img": "https://example.com/mark_johnson.jpg",
-    "posted_date": "2023-09-09",
-    "reading_time": 8,
-    "hashtags": ["travel", "budget", "adventure"]
   }
 ]
